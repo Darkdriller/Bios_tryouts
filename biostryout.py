@@ -6,7 +6,7 @@ def NestedLists():
         marksheet.append([input(), float(input())])
     second_highest=sorted(list(set([marks[1] for marks in marksheet])))[1]
     print('\n'.join([a for a,b in marksheet if b == second_highest]))
-def Ginorts():
+def ginortS():
  print(*sorted(input(), key=('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1357902468').index), sep='')
 def Mapping():
     inputnumber=input()
@@ -36,7 +36,7 @@ def main():
     function_dict={
     "AllOrAny": AllOrAny,
     "Multiply": Multiply,
-    "Ginorts": Ginorts,
+    "ginortS": ginortS,
     "Mapping":Mapping,
     "NestedLists":NestedLists,
     }
