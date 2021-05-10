@@ -6,3 +6,5 @@
 # Single Byte XOR
   1) we get a cipher `1314190e1c1001024a0825194e145d0e251849251f4e091316032518084a11491407` which is in hex. XORing it against z we get `inctfj{x0r_c4n't_b3_e4sily_br0k3n}`
 # Multi Encoder
+  1) Using the encoder we can reverse engineer a [decoder](decoder.py).
+  2) We get flag `inctfj{Y0u_@re_Qu1t3_th3_D3c0d3r}`
