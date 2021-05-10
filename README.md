@@ -12,5 +12,5 @@ All the functions are the same as the question names in [week-1-task-list](week-
     "Mapping":Mapping <br />
     "NestedLists":NestedLists <br />
 # Week 2
-   Find [bandit over the wire here](bandit.md).
+   Find [bandit over the wire here](Bandit.md).
 
