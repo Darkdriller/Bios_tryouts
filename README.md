@@ -12,7 +12,7 @@ All the functions are the same as the question names in [week-1-task-list](week1
     "Mapping":Mapping <br />
     "NestedLists":NestedLists <br />
 # Week 2
-   Find [bandit over the wire here](Bandit.md).
-   Find [ceasor cipher](ceaser.c)
-   Find [xor cipher](xor.c)
-   Find [Traboda write up](traboda.md)
+   Find [bandit over the wire here](week2/Bandit.md).
+   Find [ceasor cipher](week2/ceaser.c)
+   Find [xor cipher](week2/xor.c)
+   Find [Traboda write up](week2/traboda.md)
