@@ -16,3 +16,5 @@ All the functions are the same as the question names in [week-1-task-list](week1
    Find [ceasor cipher](week2/ceaser.c)
    Find [xor cipher](week2/xor.c)
    Find [Traboda write up](week2/traboda.md)
+# Week 2
+   Find [Automation Task here](week3/request.py)
